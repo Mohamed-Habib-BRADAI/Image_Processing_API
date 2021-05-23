@@ -6,8 +6,8 @@ const logger = (
   res: express.Response,
   next: Function
 ): void => {
-  let params = req.params;
-  console.log(params);
+  let url = req.url;
+  console.log(`${url} was visited` );
   next();
 };
 export default logger;
