@@ -1,0 +1,19 @@
+{
+  "name": "Image_Processing_API",
+  "version": "1.0.0",
+  "description": "First project of udacity nanodegree Full Stack Javascript developer",
+  "main": "index.ts",
+  "scripts": {
+    "lint": "eslint 'index.js'",
+    "prettier": "prettier --config .prettierrc '*.js' --write"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.27.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "prettier": "^1.19.1"
+  }
+}
