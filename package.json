@@ -19,6 +19,7 @@
     "@types/jasmine": "^3.6.3",
     "@types/node": "^15.6.0",
     "@types/sharp": "^0.28.1",
+    "@types/supertest": "^2.0.11",
     "@typescript-eslint/eslint-plugin": "^4.24.0",
     "@typescript-eslint/parser": "^4.24.0",
     "eslint": "^7.27.0",
@@ -33,6 +34,7 @@
     "express": "^4.17.1",
     "jasmine": "^3.6.4",
     "jasmine-spec-reporter": "^6.0.0",
-    "sharp": "^0.28.2"
+    "sharp": "^0.28.2",
+    "supertest": "^6.1.3"
   }
 }
