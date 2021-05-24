@@ -1,6 +1,5 @@
 import express from 'express';
 import routes from './routes/index';
-import exp = require("constants");
 const app = express();
 const port = 3000;
 
