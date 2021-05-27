@@ -1,5 +1,4 @@
 import supertest from 'supertest';
-import routes from '../routes';
 import app from '../index';
 import imageProcess from '../utilities/imageProcess';
 
